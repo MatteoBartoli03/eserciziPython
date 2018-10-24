@@ -1,0 +1,6 @@
+2
+0 -> cane
+1 -> gatto
+2 -> gatto
+3 -> cane
+4 -> gatto
