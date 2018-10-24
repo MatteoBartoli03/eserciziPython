@@ -1,8 +1,8 @@
-#INPUT
+# Variabili
 x = 54
 y = 23
 
-#CODICE
+# Codice
 if x < 50:
 	print("ciao")
 
