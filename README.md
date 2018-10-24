@@ -5,5 +5,3 @@ Siamo stati obbligati a farlo da Giovanni Bruno <3.
 ## Installation
 
 ### Requirements
-* NodeJS
-* NPM
